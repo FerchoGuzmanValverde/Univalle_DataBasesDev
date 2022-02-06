@@ -1,0 +1,5 @@
+D:\Univalle\2 UNIVALLE\Bases de Datos II\SIF(Sistema de Informacion FERALE)\SIFComun\bin\Debug\Ferale.Administracion.SistemaDeInformacionApp.Comun.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\SIF(Sistema de Informacion FERALE)\SIFComun\bin\Debug\Ferale.Administracion.SistemaDeInformacionApp.Comun.pdb
+D:\Univalle\2 UNIVALLE\Bases de Datos II\SIF(Sistema de Informacion FERALE)\SIFComun\obj\Debug\SIFComun.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Bases de Datos II\SIF(Sistema de Informacion FERALE)\SIFComun\obj\Debug\Ferale.Administracion.SistemaDeInformacionApp.Comun.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\SIF(Sistema de Informacion FERALE)\SIFComun\obj\Debug\Ferale.Administracion.SistemaDeInformacionApp.Comun.pdb

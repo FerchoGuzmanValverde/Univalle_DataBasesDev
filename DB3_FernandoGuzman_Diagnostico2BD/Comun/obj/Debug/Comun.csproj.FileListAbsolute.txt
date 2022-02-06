@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Comun\bin\Debug\Sistema.Comun.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Comun\bin\Debug\Sistema.Comun.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Comun\obj\Debug\Sistema.Comun.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Comun\obj\Debug\Sistema.Comun.pdb

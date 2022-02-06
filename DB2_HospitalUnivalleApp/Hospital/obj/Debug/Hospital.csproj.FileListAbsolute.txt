@@ -1,0 +1,80 @@
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Login.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Principal.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\App.baml
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EditarEmpleado.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\InsertarEmpleado.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Login.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Principal.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\App.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.cache
+C:\Users\crist\Downloads\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.lref
+C:\Users\dorit\Downloads\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.exe.config
+F:\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.exe.config
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Login.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Principal.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\App.baml
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EditarEmpleado.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\InsertarEmpleado.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Login.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Principal.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\App.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.cache
+F:\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.exe.config
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.exe
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\FontAwesome.WPF.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\FontAwesome.WPF.xml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Login.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Principal.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\App.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EditarEmpleado.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EliminarEmpleado.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\InsertarEmpleado.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\Reportes\VerReporte.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Telefonos\InsertarTelefono.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Login.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Principal.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\EditarEmpleado.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\InsertarEmpleado.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Empleados\Reportes\VerReporte.baml
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.g.resources
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.exe
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Hospital\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.pdb

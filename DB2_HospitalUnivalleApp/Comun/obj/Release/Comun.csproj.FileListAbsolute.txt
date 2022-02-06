@@ -1,0 +1,4 @@
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Comun\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Comun\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Comun\obj\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\Comun\obj\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb

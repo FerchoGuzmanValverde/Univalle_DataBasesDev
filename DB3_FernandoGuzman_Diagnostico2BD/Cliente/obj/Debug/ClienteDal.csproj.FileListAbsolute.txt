@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\bin\Debug\Sistema.ClienteDal.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\bin\Debug\Sistema.ClienteDal.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\bin\Debug\Sistema.Comun.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\bin\Debug\Sistema.Comun.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\obj\Debug\ClienteDal.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\obj\Debug\Sistema.ClienteDal.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\Cliente\obj\Debug\Sistema.ClienteDal.pdb

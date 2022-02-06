@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Productos>
+  <producto>
+    <nombre>Pantalla</nombre>
+    <descripcion>Pantalla LED para ordenador</descripcion>
+    <precio>
+      <moneda>EUR</moneda>
+      <valor>100</valor>
+    </precio>
+  </producto>
+  <producto>
+    <nombre>Teclado</nombre>
+    <descripcion>Teclado para ordenador por USB</descripcion>
+    <precio>
+      <moneda>EUR</moneda>
+      <valor>23</valor>
+    </precio>
+  </producto>
+  <producto>
+    <nombre>Ratón</nombre>
+    <descripcion>Ratón ordenador portatil</descripcion>
+    <precio>
+      <moneda>EUR</moneda>
+      <valor>10</valor>
+    </precio>
+  </producto>
+</Productos>

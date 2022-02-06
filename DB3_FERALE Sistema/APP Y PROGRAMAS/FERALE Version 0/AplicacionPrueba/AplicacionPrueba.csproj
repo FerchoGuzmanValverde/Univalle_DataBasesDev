@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{621D5034-ABF7-45FF-AFD8-6627A995FF9E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AplicacionPrueba</RootNamespace>
+    <AssemblyName>AplicacionPrueba</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClienteBrl\ClienteBrl.csproj">
+      <Project>{015afae9-261e-4873-bfb3-2e78f9732d8d}</Project>
+      <Name>ClienteBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmpleadoBrl\EmpleadoBrl.csproj">
+      <Project>{75273ac7-333e-41c1-8940-e742eef20643}</Project>
+      <Name>EmpleadoBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductosBrl\ProductosBrl.csproj">
+      <Project>{daa5d7cb-4d66-40cd-8b0c-99b6bc14037a}</Project>
+      <Name>ProductosBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIFComun\SIFComun.csproj">
+      <Project>{01385f78-847b-421a-8536-89d9a5851f0e}</Project>
+      <Name>SIFComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UsuariosBrl\UsuariosBrl.csproj">
+      <Project>{2e4c00f4-552e-4d3a-8bb3-e6631ffe3a0f}</Project>
+      <Name>UsuariosBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VentasBrl\VentasBrl.csproj">
+      <Project>{f6d6dacd-3e8a-4a0f-b3ea-788d41bb346c}</Project>
+      <Name>VentasBrl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

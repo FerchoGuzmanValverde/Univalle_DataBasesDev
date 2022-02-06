@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\Common\bin\Debug\Common.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\Common\bin\Debug\Common.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\Common\obj\Debug\Common.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\Common\obj\Debug\Common.pdb

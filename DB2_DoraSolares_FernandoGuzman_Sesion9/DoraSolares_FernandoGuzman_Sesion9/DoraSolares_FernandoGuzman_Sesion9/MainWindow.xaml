@@ -1,0 +1,9 @@
+﻿<Window x:Class="DoraSolares_FernandoGuzman_Sesion9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox x:Name="lstproductos" HorizontalAlignment="Left" Height="264" Margin="49,25,0,0" VerticalAlignment="Top" Width="264"/>
+
+    </Grid>
+</Window>

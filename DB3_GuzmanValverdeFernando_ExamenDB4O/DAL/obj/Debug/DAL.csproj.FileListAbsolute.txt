@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\Common.dll
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\Db4objects.Db4o.dll
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\Common.pdb
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\bin\Debug\Db4objects.Db4o.xml
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\obj\Debug\DAL.dll
+C:\Users\usuario\Desktop\GuzmanValverdeFernando02092019\DAL\obj\Debug\DAL.pdb

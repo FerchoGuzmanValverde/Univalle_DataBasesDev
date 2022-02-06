@@ -1,0 +1,21 @@
+﻿<Window x:Class="Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Empleados.NavegadorEmpleado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Navegador de empleados" Height="493.3" Width="538" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54*"/>
+            <RowDefinition Height="409*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnCancelar" Content="_Cancelar" HorizontalAlignment="Left" Margin="419,333,0,0" VerticalAlignment="Top" Width="92" Click="btnCancelar_Click" Grid.Row="1"/>
+        <ListBox x:Name="lbxEmpleados" HorizontalAlignment="Left" BorderThickness="1" Height="288" Margin="10,36,0,0" VerticalAlignment="Top" Width="404" BorderBrush="#FF4F3AAC" Grid.Row="1"/>
+        <Label x:Name="lblApellido" Content="Apellido" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtApellido" HorizontalAlignment="Left" Height="23" Margin="69,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Grid.RowSpan="2"/>
+        <Button x:Name="btnBuscar" Content="_Buscar" HorizontalAlignment="Left" Margin="339,40,0,0" VerticalAlignment="Top" Width="75" Grid.RowSpan="2" Click="btnBuscar_Click"/>
+        <Button x:Name="btnCrear" Content="C_rear" HorizontalAlignment="Left" Margin="419,36,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.685,-8.625" Grid.Row="1" Click="btnCrear_Click"/>
+        <Button x:Name="btnEditar" Content="_Editar" HorizontalAlignment="Left" Margin="419,73,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.685,-8.625" Grid.Row="1" Click="btnEditar_Click"/>
+        <Button x:Name="btnVer" Content="_Ver" HorizontalAlignment="Left" Margin="419,110,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.685,-8.625" Grid.Row="1"/>
+        <Button x:Name="btnEliminar" Content="E_liminar" HorizontalAlignment="Left" Margin="419,147,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.685,-8.625" Grid.Row="1" Click="btnEliminar_Click"/>
+
+    </Grid>
+</Window>

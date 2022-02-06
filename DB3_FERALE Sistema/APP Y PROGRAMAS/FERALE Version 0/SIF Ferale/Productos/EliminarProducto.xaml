@@ -1,0 +1,23 @@
+﻿<Window x:Class="SIF_Ferale.Productos.EliminarProducto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EliminarProducto" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Height="300" Width="467.021"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None" ContentRendered="Window_ContentRendered">
+    <Grid Background="#1b5e20" MouseDown="Grid_MouseDown">
+        <materialDesign:Card Margin="26,44,27,0" Height="196">
+            <Grid HorizontalAlignment="Left" Height="196" VerticalAlignment="Top" Width="404">
+                <Button x:Name="btnConfirmar" Content="Confirmar" HorizontalAlignment="Left" Margin="92,154,0,0" VerticalAlignment="Top" Width="112" Background="#fcd734" BorderBrush="#fcd734" Click="btnConfirmar_Click"/>
+                <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="209,154,-72,0" VerticalAlignment="Top" Width="110" Background="#fcd734" BorderBrush="#fcd734" Click="btnCancelar_Click"/>
+                <Label x:Name="lblMensaje" Content="----" HorizontalAlignment="Left" Margin="10,86,-155,0" VerticalAlignment="Top" Width="392"/>
+                <Rectangle HorizontalAlignment="Left" Height="56" Margin="168,10,0,0" Stroke="White" VerticalAlignment="Top" Width="66">
+                    <Rectangle.Fill>
+                        <ImageBrush ImageSource="/SIF Ferale;component/Imagenes/logoFerale.jpg"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Grid>
+
+        </materialDesign:Card>
+    </Grid>
+</Window>

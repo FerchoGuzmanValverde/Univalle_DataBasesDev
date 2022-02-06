@@ -1,0 +1,10 @@
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\BRL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\BRL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\Oracle.DataAccess.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\bin\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\obj\Debug\BRL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\BRL\obj\Debug\BRL.pdb

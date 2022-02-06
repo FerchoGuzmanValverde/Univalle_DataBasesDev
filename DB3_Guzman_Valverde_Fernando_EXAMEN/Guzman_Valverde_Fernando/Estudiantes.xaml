@@ -1,0 +1,25 @@
+﻿<Window x:Class="Guzman_Valverde_Fernando.Estudiantes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Guzman_Valverde_Fernando"
+        mc:Ignorable="d"
+        Title="Estudiantes" Height="430.258" Width="798.192">
+    <Grid>
+        <Label x:Name="label" Content="Carrera:" HorizontalAlignment="Left" Margin="10,18,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Ci:" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Nombres:" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Apellido Paterno:" HorizontalAlignment="Left" Margin="10,111,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Apellido Materno:" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Fecha Nacimiento:" HorizontalAlignment="Left" Margin="10,173,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnInsertar" Content="INSERTAR" HorizontalAlignment="Left" Margin="90,224,0,0" VerticalAlignment="Top" Width="105" Height="32" Click="btnInsertar_Click"/>
+        <TextBox x:Name="txtCarrera" HorizontalAlignment="Left" Height="23" Margin="147,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtCi" HorizontalAlignment="Left" Height="23" Margin="147,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNombres" HorizontalAlignment="Left" Height="23" Margin="147,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtApellido1" HorizontalAlignment="Left" Height="23" Margin="147,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtApellido2" HorizontalAlignment="Left" Height="23" Margin="147,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="dateFechaNacimiento" HorizontalAlignment="Left" Margin="147,174,0,0" VerticalAlignment="Top" Width="120"/>
+        <DataGrid x:Name="dgvDatos" HorizontalAlignment="Left" Margin="308,22,0,0" VerticalAlignment="Top" Height="244" Width="381" SizeChanged="dgvDatos_SizeChanged"/>
+    </Grid>
+</Window>

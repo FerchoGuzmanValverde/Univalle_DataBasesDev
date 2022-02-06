@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Telefonos.InsertarTelefono"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="35.083" Width="295.704" Loaded="UserControl_Loaded">
+    <Grid>
+        <Label x:Name="lblNumero" Content="Numero:" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Margin="-4,4,0,0"/>
+        <TextBox x:Name="txtNumero" HorizontalAlignment="Left" Height="23" Margin="59,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="lblTipo" Content="Tipo:" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Margin="153,4,0,0"/>
+        <ComboBox x:Name="cbxTipoTelefono" HorizontalAlignment="Left"  Margin="189,-1,0,0" VerticalAlignment="Top" Width="90" IsSynchronizedWithCurrentItem="False" Loaded="cbxTipoTelefono_Loaded"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,5 @@
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\Common\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\Common\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\Common\obj\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\Common\obj\Debug\Common.pdb

@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\BRL.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\BRL.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\Common.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\Common.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\obj\Debug\BRL.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\BRL\obj\Debug\BRL.pdb

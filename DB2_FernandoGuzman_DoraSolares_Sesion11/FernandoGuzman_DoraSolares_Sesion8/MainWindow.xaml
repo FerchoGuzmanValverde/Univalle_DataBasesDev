@@ -1,0 +1,10 @@
+﻿<Window x:Class="FernandoGuzman_DoraSolares_Sesion11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnHacer" Content="Realizar" HorizontalAlignment="Left" Margin="62,42,0,0" VerticalAlignment="Top" Width="75" Click="BtnHacer_Click"/>
+        <ListBox x:Name="lstmostrar" HorizontalAlignment="Left" Height="204" Margin="62,87,0,0" VerticalAlignment="Top" Width="328"/>
+
+    </Grid>
+</Window>

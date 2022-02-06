@@ -1,0 +1,10 @@
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\Oracle.DataAccess.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\obj\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\obj\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\CRUDOracleBasic\DAL\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

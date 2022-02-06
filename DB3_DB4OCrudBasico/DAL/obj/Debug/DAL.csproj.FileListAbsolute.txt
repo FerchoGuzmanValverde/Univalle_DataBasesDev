@@ -1,0 +1,9 @@
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\DAL.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\Common.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\Db4objects.Db4o.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\Common.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\bin\Debug\Db4objects.Db4o.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\obj\Debug\DAL.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\DB4OCrudBasico\DAL\obj\Debug\DAL.pdb

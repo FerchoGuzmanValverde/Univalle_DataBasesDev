@@ -1,0 +1,16 @@
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\bin\Debug\DoraSolares_FernandoGuzman_Sesion8.exe.config
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\bin\Debug\DoraSolares_FernandoGuzman_Sesion8.exe
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\bin\Debug\DoraSolares_FernandoGuzman_Sesion8.pdb
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.csprojResolveAssemblyReference.cache
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\MainWindow.baml
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\MainWindow.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\App.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8_MarkupCompile.cache
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.g.resources
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.Properties.Resources.resources
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.csproj.GenerateResource.Cache
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.exe
+c:\users\dsa\documents\visual studio 2013\Projects\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\bin\Debug\DoraSolares_FernandoGuzman_Sesion8.exe.config
+G:\Univalle\2 UNIVALLE\Bases de Datos II\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.exe
+G:\Univalle\2 UNIVALLE\Bases de Datos II\DoraSolares_FernandoGuzman_Sesion8\DoraSolares_FernandoGuzman_Sesion8\obj\Debug\DoraSolares_FernandoGuzman_Sesion8.pdb

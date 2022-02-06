@@ -1,0 +1,9 @@
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.pdb
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Release\EmpleadosBrl.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+D:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Release\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb

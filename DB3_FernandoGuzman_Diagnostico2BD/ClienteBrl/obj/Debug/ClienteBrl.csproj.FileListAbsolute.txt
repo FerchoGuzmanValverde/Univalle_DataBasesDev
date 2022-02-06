@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.ClienteBrl.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.ClienteBrl.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.ClienteDal.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.Comun.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.ClienteDal.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\bin\Debug\Sistema.Comun.pdb
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\obj\Debug\ClienteBrl.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\obj\Debug\Sistema.ClienteBrl.dll
+C:\Users\usuario\Desktop\FernandoGuzman_Diagnostico2BD\ClienteBrl\obj\Debug\Sistema.ClienteBrl.pdb

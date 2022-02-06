@@ -1,0 +1,565 @@
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Login.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\App.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Login.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.exe
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.exe
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csprojResolveAssemblyReference.cache
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Login.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\App.baml
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Login.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\App.g.cs
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+G:\Ferale\Para Dodo\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.Cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Login.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\App.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Login.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\App.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.exe
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\SIF Ferale.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csprojAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Login.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\App.baml
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Login.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\App.g.cs
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.CoreCompileInputs.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.csproj.CopyComplete
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.exe
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\SIF Ferale\obj\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Login.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\App.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Login.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\App.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\SIF Ferale\obj\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\SIF Ferale.exe.config
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\SIF Ferale.exe
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\SIF Ferale.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\MaterialDesignColors.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.ProductosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.UsuariosDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\EditarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\EliminarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\InsertarCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\VerCliente.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\VerEmpleado.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Login.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\EditarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\EliminarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\InsertarProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\NavegadorProductos.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\VerProducto.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\VerUsuario.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\App.baml
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\EditarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\EliminarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\InsertarCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\NvegadorClientes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Clientes\VerCliente.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\EditarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\EliminarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\InsertarEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\NavegadorEmpleados.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\VentanaMensajes.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Empleados\VerEmpleado.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Inicios\InicioAdministrador.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Login.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\EditarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\EliminarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\InsertarProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\NavegadorProductos.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Productos\VerProducto.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\EditarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\EliminarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\InsertarUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\NavegadorUsuarios.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\VentanaMensaje.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Usuarios\VerUsuario.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\Ventas\NavegadorVentas.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\App.g.cs
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale_MarkupCompile.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.g.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF_Ferale.Properties.Resources.resources
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.csproj.GenerateResource.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\SIF Ferale\obj\Debug\SIF Ferale.csproj.CopyComplete

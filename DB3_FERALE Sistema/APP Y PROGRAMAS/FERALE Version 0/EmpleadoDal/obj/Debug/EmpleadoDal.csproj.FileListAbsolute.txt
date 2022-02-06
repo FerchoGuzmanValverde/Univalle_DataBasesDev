@@ -1,0 +1,49 @@
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csprojResolveAssemblyReference.cache
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csprojAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CoreCompileInputs.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CopyComplete
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\obj\Debug\EmpleadoDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\obj\Debug\EmpleadoDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\obj\Debug\EmpleadoDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\EmpleadoDal\obj\Debug\Ferale.SistemaDeInformacionApp.EmpleadoDal.pdb

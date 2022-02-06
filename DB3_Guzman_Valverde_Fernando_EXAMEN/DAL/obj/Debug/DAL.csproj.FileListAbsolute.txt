@@ -1,0 +1,8 @@
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\bin\Debug\Common.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\bin\Debug\Common.pdb
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\obj\Debug\DAL.dll
+C:\Users\usuario\Desktop\Guzman_Valverde_Fernando\DAL\obj\Debug\DAL.pdb

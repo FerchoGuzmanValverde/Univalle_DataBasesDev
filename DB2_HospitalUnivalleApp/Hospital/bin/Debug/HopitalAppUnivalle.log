@@ -1,0 +1,5 @@
+13/06/2019 9:52:23 Info: Empezando a ejecutar el método lógica de negocio para Obtener un usuario Obtener UsuarioBrl
+13/06/2019 9:52:25 Info: Empezando a ejecutar el método lógica de negocio para Obtener un usuario Obtener UsuarioBrl
+13/06/2019 9:52:32 Info: Empezando a ejecutar el método lógica de negocio para Obtener un EmpleadoKeyValueList Obtener EmpleadoKeyValueListBrl
+13/06/2019 9:52:44 Error: 13/06/2019 9:52:44 Obtenet(Get) TelefonoDal
+13/06/2019 9:52:44 Error: 13/06/2019 9:52:44 Obtener EmpleadoKeyValueListBrl

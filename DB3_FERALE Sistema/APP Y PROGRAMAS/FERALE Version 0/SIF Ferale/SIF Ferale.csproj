@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A24CF8E-3BBA-4A7E-9FA5-39E3DAC3BD24}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SIF_Ferale</RootNamespace>
+    <AssemblyName>SIF Ferale</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors">
+      <HintPath>..\packages\MaterialDesignColors.1.1.3\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf">
+      <HintPath>..\packages\MaterialDesignThemes.2.5.1\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Clientes\EditarCliente.xaml.cs">
+      <DependentUpon>EditarCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\EliminarCliente.xaml.cs">
+      <DependentUpon>EliminarCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\InsertarCliente.xaml.cs">
+      <DependentUpon>InsertarCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\VentanaMensaje.xaml.cs">
+      <DependentUpon>VentanaMensaje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\VerCliente.xaml.cs">
+      <DependentUpon>VerCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\EditarEmpleado.xaml.cs">
+      <DependentUpon>EditarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\EliminarEmpleado.xaml.cs">
+      <DependentUpon>EliminarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\InsertarEmpleado.xaml.cs">
+      <DependentUpon>InsertarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\VentanaMensajes.xaml.cs">
+      <DependentUpon>VentanaMensajes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\VerEmpleado.xaml.cs">
+      <DependentUpon>VerEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\EditarProducto.xaml.cs">
+      <DependentUpon>EditarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\EliminarProducto.xaml.cs">
+      <DependentUpon>EliminarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\InsertarProducto.xaml.cs">
+      <DependentUpon>InsertarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\VentanaMensaje.xaml.cs">
+      <DependentUpon>VentanaMensaje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\VerProducto.xaml.cs">
+      <DependentUpon>VerProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\EditarUsuario.xaml.cs">
+      <DependentUpon>EditarUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\EliminarUsuario.xaml.cs">
+      <DependentUpon>EliminarUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\InsertarUsuario.xaml.cs">
+      <DependentUpon>InsertarUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\NavegadorUsuarios.xaml.cs">
+      <DependentUpon>NavegadorUsuarios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\VentanaMensaje.xaml.cs">
+      <DependentUpon>VentanaMensaje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\VerUsuario.xaml.cs">
+      <DependentUpon>VerUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\NavegadorVentas.xaml.cs">
+      <DependentUpon>NavegadorVentas.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clientes\NvegadorClientes.xaml.cs">
+      <DependentUpon>NvegadorClientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\NavegadorEmpleados.xaml.cs">
+      <DependentUpon>NavegadorEmpleados.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Inicios\InicioAdministrador.xaml.cs">
+      <DependentUpon>InicioAdministrador.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\NavegadorProductos.xaml.cs">
+      <DependentUpon>NavegadorProductos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Clientes\EditarCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Clientes\EliminarCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Clientes\InsertarCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Clientes\NvegadorClientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Clientes\VentanaMensaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Clientes\VerCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\EditarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\EliminarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\InsertarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\NavegadorEmpleados.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\VentanaMensajes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empleados\VerEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Inicios\InicioAdministrador.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\EditarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\EliminarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\InsertarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\NavegadorProductos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\VentanaMensaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos\VerProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\EditarUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\EliminarUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\InsertarUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\NavegadorUsuarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\VentanaMensaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usuarios\VerUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ventas\NavegadorVentas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\logoFerale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ClienteBrl\ClienteBrl.csproj">
+      <Project>{015afae9-261e-4873-bfb3-2e78f9732d8d}</Project>
+      <Name>ClienteBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmpleadoBrl\EmpleadoBrl.csproj">
+      <Project>{75273ac7-333e-41c1-8940-e742eef20643}</Project>
+      <Name>EmpleadoBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductosBrl\ProductosBrl.csproj">
+      <Project>{daa5d7cb-4d66-40cd-8b0c-99b6bc14037a}</Project>
+      <Name>ProductosBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIFComun\SIFComun.csproj">
+      <Project>{01385f78-847b-421a-8536-89d9a5851f0e}</Project>
+      <Name>SIFComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UsuariosBrl\UsuariosBrl.csproj">
+      <Project>{2e4c00f4-552e-4d3a-8bb3-e6631ffe3a0f}</Project>
+      <Name>UsuariosBrl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VentasBrl\VentasBrl.csproj">
+      <Project>{f6d6dacd-3e8a-4a0f-b3ea-788d41bb346c}</Project>
+      <Name>VentasBrl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,57 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Hospital="clr-namespace:Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Empleados" 
+        xmlns:Telefonos="clr-namespace:Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Telefonos" 
+        x:Class="Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Wpf.Hospital.Empleados.EditarEmpleado"
+        Title="Empleado" Height="496.181" Width="613.543" WindowStartupLocation="CenterScreen" 
+        WindowStyle="ToolWindow"  Loaded="EditarEmpleado_Loaded" ContentRendered="Window_ContentRendered">
+    <GroupBox Header="Editar empleado" Margin="0,0,-8,0">
+        <Grid Height="358" VerticalAlignment="Top">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MinWidth="333"></ColumnDefinition>
+                <ColumnDefinition Width="Auto" MinWidth="246"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <GroupBox Grid.Row="0" x:Name="gbxInformacionGeneral" Header="Información general" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5,5,0,0" Height="168" Width="318">
+                <Grid Width="260" HorizontalAlignment="Left" Margin="0,0,0,-5" VerticalAlignment="Top" Height="121" >
+                    <Label x:Name="lblNombre" Content="Nombre" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtNombre" Height="23" TextWrapping="Wrap" Margin="113,2,0,0" HorizontalAlignment="Left" Width="139" VerticalAlignment="Top" />
+                    <Label x:Name="lblPrimerApellido" Content="Primer Apellido" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtPrimerApellido" Height="23" TextWrapping="Wrap" Margin="113,30,0,0" HorizontalAlignment="Left" Width="139" VerticalAlignment="Top" />
+                    <Label x:Name="lblSegundoApellido" Content="Segundo Apellido" HorizontalAlignment="Left" Margin="0,58,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtSegundoApellido" Height="23" TextWrapping="Wrap" Margin="113,58,0,0" HorizontalAlignment="Left" Width="139" VerticalAlignment="Top" />
+                    <Label x:Name="lblFechaContratacion" Content="Fecha contratación" HorizontalAlignment="Left" Margin="0,83,0,10" />
+                    <DatePicker x:Name="dtpFechaContratacion" HorizontalAlignment="Left" Margin="113,81,0,0" VerticalAlignment="Top" Width="139"/>
+                </Grid>
+
+            </GroupBox>
+            <GroupBox Grid.Row="0" Grid.Column="1" x:Name="gbxUsuario" Header="Usuario" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5,5,0,0" Height="168" Width="238">
+                <Grid Width="260" HorizontalAlignment="Left" Margin="0,0,0,-5" VerticalAlignment="Top" Height="121" >
+                    <Label x:Name="lblNombreUsuario" Content="Nombre" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtNombreUsuario" Height="23" TextWrapping="Wrap" Margin="113,2,0,0" HorizontalAlignment="Left" Width="99" VerticalAlignment="Top" />
+                    <Label x:Name="lblContrasenia" Content="Contraseña" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtContrasenia" Height="23" TextWrapping="Wrap" Margin="113,30,0,0" HorizontalAlignment="Left" Width="99" VerticalAlignment="Top" />
+                    <Label x:Name="lblRepetirContrasenia" Content="Repetir contraseña" HorizontalAlignment="Left" Margin="0,58,0,0" VerticalAlignment="Top" />
+                    <TextBox x:Name="txtRepetirContrasenia" Height="23" TextWrapping="Wrap" Margin="114,58,0,0" HorizontalAlignment="Left" Width="99" VerticalAlignment="Top" />
+                </Grid>
+
+            </GroupBox>
+            <GroupBox Grid.Row="1" Grid.Column="0" x:Name="gbxTelefonos" Header="Télefonos" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="5,5,0,0" Height="168" Width="318"/>
+            <Grid HorizontalAlignment="Left" Height="118" Margin="10,46,0,0" Grid.Row="1" VerticalAlignment="Top" Width="313">
+                <Telefonos:InsertarTelefono x:Name="ucTelefono1" Margin="0,0,17,83" />
+                <Telefonos:InsertarTelefono x:Name="ucTelefono2" HorizontalAlignment="Left" Margin="0,35,0,0" VerticalAlignment="Top" Height="35" Width="296"/>
+                <Telefonos:InsertarTelefono x:Name="ucTelefono3" HorizontalAlignment="Left" Margin="0,70,0,0" VerticalAlignment="Top" Height="35" Width="296"/>
+            </Grid>
+            <Button x:Name="btnCancelar" Content="_Cancelar" Grid.Column="1" HorizontalAlignment="Left" Margin="157,202,0,-53" Grid.Row="1" VerticalAlignment="Top" Width="86" Click="btnCancelar_Click"/>
+            <Button x:Name="btnActualizar" Content="_Actulizar" Grid.Column="1" HorizontalAlignment="Left" Margin="61,202,0,-51" Grid.Row="1" VerticalAlignment="Top" Width="91" Click="btnActualizar_Click"/>
+
+        </Grid>
+    </GroupBox>
+
+
+
+</Window>

@@ -1,0 +1,21 @@
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.dll
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.pdb
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.dll.config
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\EmpleadosBrl.csprojAssemblyReference.cache
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\EmpleadosBrl.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\EmpleadosBrl.csproj.CopyComplete
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+C:\Users\crist\Downloads\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.Comun.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\bin\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosDal.pdb
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\EmpleadosBrl.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.dll
+G:\Univalle\2 UNIVALLE\Bases de Datos II\HospitalUnivalleApp\EmpleadosBrl\obj\Debug\Univalle.Fie.Sistemas.BaseDeDatos2.HospitalApp.EmpleadosBrl.pdb

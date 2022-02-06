@@ -1,0 +1,61 @@
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csprojResolveAssemblyReference.cache
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Ferale\Para Dodo\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csprojAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csproj.CoreCompileInputs.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\ClienteBrl.csproj.CopyComplete
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\obj\Debug\ClienteBrl.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\obj\Debug\ClienteBrl.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\obj\Debug\ClienteBrl.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.ClienteDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\obj\Debug\ClienteBrl.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\obj\Debug\ClienteBrl.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\ClienteBrl\obj\Debug\Ferale.SistemaDeInformacionApp.ClienteBrl.pdb

@@ -1,0 +1,49 @@
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\obj\Debug\VentasDal.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+C:\Users\Fernando Guzman\Desktop\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\obj\Debug\VentasDal.csprojResolveAssemblyReference.cache
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Ferale\Para Dodo\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csprojAssemblyReference.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csproj.CoreCompileInputs.cache
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\VentasDal.csproj.CopyComplete
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+E:\Univalle\4to Semestre CS\Bases de Datos 3\Sistema de Informacion Ferale\SIF Ferale\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\obj\Debug\VentasDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\obj\Debug\VentasDal.csproj.CoreCompileInputs.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\obj\Debug\VentasDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 1\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\bin\Debug\Ferale.SistemaDeInformacionApp.SIFComun.pdb
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\obj\Debug\VentasDal.csprojAssemblyReference.cache
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\obj\Debug\VentasDal.csproj.CopyComplete
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.dll
+G:\Univalle\4to Semestre CS\Bases de Datos 3\FERALE Sistema\APP Y PROGRAMAS\FERALE Version 0\VentasDal\obj\Debug\Ferale.SistemaDeInformacionApp.VentasDal.pdb
